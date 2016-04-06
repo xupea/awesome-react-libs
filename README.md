@@ -712,6 +712,8 @@ A collection of awesome things regarding npm packages for React and Redux
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 * [Testing React Components with Teaspoon & Unexpected](http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/)
+* [Mocha 测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+* [Mochawesome](http://adamgruber.github.io/mochawesome/)
 
 
 ---

@@ -48,11 +48,6 @@ A collection of awesome things regarding npm packages for React and Redux
   - [JSX Resources](#jsx-resources)
   - [JSX Tutorials](#jsx-tutorials)
   - [JSX Alternatives](#jsx-alternatives)
-- [Flux](#flux)
-  - [Flux General Resources](#flux-general-resources)
-  - [Flux Implementations](#flux-implementations)
-  - [Flux Tutorials](#flux-tutorials)
-  - [Redux Tutorials](#redux-tutorials)
 - [Testing](#testing)
   - [Jest General Resources](#jest-general-resources)
   - [Testing Utilities](#testing-utilities)
@@ -642,51 +637,6 @@ A collection of awesome things regarding npm packages for React and Redux
 ---
 ### Flux
 > Application Architecture for Building User Interfaces
-
-#### Flux General Resources
-* [Flux Official Site](http://facebook.github.io/flux/)
-* [Flux GitHub](https://github.com/facebook/flux)
-
-#### Flux Implementations
-* [Flux Comparision](https://github.com/voronianski/flux-comparison)
-* [Redux](https://github.com/gaearon/redux)
-* [RefluxJS](https://github.com/spoike/refluxjs)
-* [Fluxxor](https://github.com/BinaryMuse/fluxxor)
-* [Marty](https://github.com/martyjs/marty)
-* [McFly](https://github.com/kenwheeler/mcfly)
-* [Alt](https://github.com/goatslacker/alt)
-* [Fluxible](https://github.com/yahoo/fluxible)
-* [NuclearJS](https://github.com/optimizely/nuclear-js)
-* [Flummox](https://github.com/acdlite/flummox)
-
-#### Flux Tutorials
-* [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
-* [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
-* [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
-* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
-* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
-* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
-* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
-* [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
-* [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
-* [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
-* [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
-* [ReactJS and Flux](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
-* [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
-* [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
-* [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
-* [What is the Flux Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e)
-* [React + Flux Backed by Rails API: Part 1](http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
-* [React + Flux Backed by Rails API: Part 2](http://fancypixel.github.io/blog/2015/01/29/react-plus-flux-backed-by-rails-api-part-2/)
-* [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
-* [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-* [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
-* [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
-* [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
-* [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
-* [Awesome Redux](https://github.com/xgrommx/awesome-redux)
-* [FOR FLUX SAKE! - a beginners tutorial](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
-* [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
 
 #### Redux Tutorials
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)

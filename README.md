@@ -657,7 +657,7 @@ A collection of awesome things regarding npm packages for React and Redux
 * [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
 * [react-component-tester](https://github.com/craigbilner/react-component-tester)
 
-##### Testing Tutorials
+#### Testing Tutorials
 * [React Testing Cookbook - video lessons](https://egghead.io/series/react-testing-cookbook)
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
